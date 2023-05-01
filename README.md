@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**Passionate about Natural Language Processing, Machine Learning, and broadly Software Engineering.**
+**Passionate about Natural Language Processing, Machine Learning, and everything Software Engineering.**
 
 **Mostly active on a bunch of private repos these days.**
 
