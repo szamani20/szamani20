@@ -1,17 +1,40 @@
-# 💫 About Me:
-
-**Passionate about Natural Language Processing, Machine Learning, and everything Software Engineering.**
+# About Me:
 
 **Mostly active on a bunch of private repos these days.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=szamani20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=szamani20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=szamani20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Publications (and Datasets)
 
----
-[![](https://visitcount.itsvg.in/api?id=szamani20&icon=0&color=0)](https://visitcount.itsvg.in)
+[What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[User-Centric Modeling of Online Hate Through the Lens of Psycholinguistic Patterns and Behaviors in Social Media](https://ieeexplore.ieee.org/abstract/document/10433527)
+
+[Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences (to be published)](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
+
+## Notable Projects
+
+[Bellman-Ford, Leader Election, and Paxos Implementation for TA EE-Distributed Systems-Sharif](https://github.com/szamani20/Distributed-Systems)
+
+[Man-in-the-Middle Attack on Telegram Games](https://github.com/szamani20/Telegram-Game-Cheat)
+
+[OCR-based Hacking/Cheating of 10fastfingers website](https://github.com/szamani20/10FastFingersCheat)
+
+[Intel 8086 Assembly Tank GUI Game (yes, for real!)](https://github.com/szamani20/Tank8086)
+
+[Telegram Bot for Shora CS-Sharif](https://github.com/szamani20/Shora-Telegram-Bot)
+
+[Django Backend for Royan Twin Congress 2017](https://github.com/szamani20/Royan-Twin-Congress-Server)
+
+[Android app for Royan Twin Congress 2017](https://github.com/szamani20/Royan-Twin-Congress-Android)
+
+[Basic Multi-Player Counter Strike Shooting Game with JavaFX](https://github.com/szamani20/ShooterGame)
+
+[Feature Rich Monopoly Game implemented with JavaFX](https://github.com/szamani20/Monopoly)
+
+[Test Your Reflex and Visual Reaction time using this JavaFX Game](https://github.com/szamani20/ReflexTest)
+
+[Java Excercises Guide for TA CS-2S03-McMaster](https://github.com/szamani20/CS-2S03-McMaster)
+
+[NLP Tutorials for McMaster AI Society, Transformers, etc.](https://github.com/szamani20/MacAI-Material)
+
+[Solutions, Sedgewick-Wayne Algorithms for TA CS-Data Structures and Algorithms-McMaster](https://github.com/szamani20/algorithms-sedgewick-wayne)
+
