@@ -5,13 +5,13 @@
 # Publications (and Datasets)
 
 - [What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
-- - Information Processing & Management, May 2023
+  - Information Processing & Management, May 2023
 
 - [User-Centric Modeling of Online Hate Through the Lens of Psycholinguistic Patterns and Behaviors in Social Media](https://ieeexplore.ieee.org/abstract/document/10433527)
-- - IEEE Transactions on Computational Social Systems, February 2024
+  - IEEE Transactions on Computational Social Systems, February 2024
 
 - [Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences (to be published)](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
-- - IEEE Transactions on Computational Social Systems Special Issue on Music Intelligence and Social Computation, 2024
+  - IEEE Transactions on Computational Social Systems Special Issue on Music Intelligence and Social Computation, 2024
  
 
 ---
@@ -34,13 +34,13 @@
 - [My Optimized Solutions to Pandas Exercise Challenges (2019)](https://github.com/szamani20/pandas-exercises-solutions)
 - [Anomaly Detection in Time Series Data in the Presence of Concept Drift (2021)](https://github.com/szamani20/time-series)
 
-## Data Structures and Algorithms
-
-- [Solutions, Sedgewick-Wayne Algorithms for TA CS-Data Structures and Algorithms-McMaster (2020)](https://github.com/szamani20/algorithms-sedgewick-wayne)
-
 ## Distributed Systems
 
 - [Bellman-Ford, Leader Election, and Paxos Implementation for TA EE-Distributed Systems-Sharif (2019)](https://github.com/szamani20/Distributed-Systems)
+
+## Data Structures and Algorithms
+
+- [Solutions, Sedgewick-Wayne Algorithms for TA CS-Data Structures and Algorithms-McMaster (2020)](https://github.com/szamani20/algorithms-sedgewick-wayne)
 
 ## (Fun and not serious) Hacking and Cheating
 
