@@ -4,11 +4,18 @@
 
 # Publications (and Datasets)
 
-[What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
+- [What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
+- - Information Processing & Management, May 2023
 
-[User-Centric Modeling of Online Hate Through the Lens of Psycholinguistic Patterns and Behaviors in Social Media](https://ieeexplore.ieee.org/abstract/document/10433527)
+- [User-Centric Modeling of Online Hate Through the Lens of Psycholinguistic Patterns and Behaviors in Social Media](https://ieeexplore.ieee.org/abstract/document/10433527)
+- - IEEE Transactions on Computational Social Systems, February 2024
 
-[Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences (to be published)](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
+- [Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences (to be published)](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
+- - IEEE Transactions on Computational Social Systems Special Issue on Music Intelligence and Social Computation, 2024
+ 
+
+---
+
 
 # Notable Projects
 
