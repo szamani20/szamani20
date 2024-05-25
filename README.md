@@ -37,6 +37,8 @@
 ## Distributed Systems
 
 - [Bellman-Ford, Leader Election, and Paxos Implementation for TA EE-Distributed Systems-Sharif (2019)](https://github.com/szamani20/Distributed-Systems)
+- [Java Chat App Client](https://github.com/szamani20/MessengerApp-Client)
+- [Java Chat App Server](https://github.com/szamani20/MessengerApp-Server)
 
 ## Data Structures and Algorithms
 
