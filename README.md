@@ -1,6 +1,6 @@
 # About Me:
 
-**Mostly active on a bunch of private repos these days.**
+## Mostly active on a bunch of private repos these days.
 
 # Publications (and Datasets)
 
