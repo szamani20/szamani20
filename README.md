@@ -19,6 +19,10 @@
 
 # Notable Projects
 
+## Cloud
+
+- [A Fully Functional Cloud Security Information and Event Management (SIEM) Software Built with Micro-Service Architecture (2024)](https://github.com/szamani20/Cloud-SIEM)
+  
 ## Backend
 
 - [Django Backend for Royan Twin Congress (2017)](https://github.com/szamani20/Royan-Twin-Congress-Server)
