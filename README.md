@@ -10,9 +10,9 @@
 - [User-Centric Modeling of Online Hate Through the Lens of Psycholinguistic Patterns and Behaviors in Social Media](https://ieeexplore.ieee.org/abstract/document/10433527)
   - IEEE Transactions on Computational Social Systems, February 2024
 
-- [Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences (to be published)](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
-  - IEEE Transactions on Computational Social Systems Special Issue on Music Intelligence and Social Computation, 2024
- 
+- [Twitter-MusicPD: Melody of Minds - Navigating User-Level Data on Multiple Mental Health Disorders and Music Preferences](https://link.springer.com/article/10.1140/epjds/s13688-025-00549-7)
+  - IEEE Transactions on Computational Social Systems Special Issue on Music Intelligence and Social Computation, April 2025
+  - [Github Repo for Dataset](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds)
 
 ---
 
