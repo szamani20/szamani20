@@ -1,3 +1,7 @@
+# LLM Cookbook
+
+- [A collection of ready-to-run notebooks and hands-on guides for training and fine-tuning large language models. (2025)](https://github.com/szamani20/LLM-Cookbook)
+
 # Publications (and Datasets)
 
 - [What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
@@ -14,11 +18,6 @@
 
 
 # Notable Projects
-
-## LLM Cookbook
-
-- [A collection of practical guides and examples for training and fine-tuning large language models. (2025)](https://github.com/szamani20/LLM-Cookbook)
-
 
 ## Cloud
 
