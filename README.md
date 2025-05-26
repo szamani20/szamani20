@@ -1,6 +1,4 @@
-# LLM Cookbook
-
-- [A collection of ready-to-run notebooks and hands-on guides for training and fine-tuning large language models. (2025)](https://github.com/szamani20/LLM-Cookbook)
+# [A collection of ready-to-run notebooks and hands-on guides for training and fine-tuning large language models. (2025)](https://github.com/szamani20/LLM-Cookbook)
 
 # Publications (and Datasets)
 
