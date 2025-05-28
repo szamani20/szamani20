@@ -2,6 +2,10 @@
 
 **[A collection of ready-to-run notebooks and hands-on guides for training and fine-tuning large language models. (2025)](https://github.com/szamani20/LLM-Cookbook)**
 
+# RAG Recipes
+
+**[A practical guide for building an end-to-end Retrieval Augmented Generation (RAG) system. (2025)](https://github.com/szamani20/RAG-Recipes)**
+
 # Publications (and Datasets)
 
 - [What users’ musical preference on Twitter reveals about psychological disorders](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000067)
