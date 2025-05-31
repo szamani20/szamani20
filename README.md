@@ -4,7 +4,7 @@
 
 # RAG Recipes
 
-**[A practical guide for building an end-to-end Retrieval Augmented Generation (RAG) system. (2025)](https://github.com/szamani20/RAG-Recipes)**
+**[A practical guide for building and evaluating an end-to-end Retrieval Augmented Generation (RAG) system. (2025)](https://github.com/szamani20/RAG-Recipes)**
 
 # Publications (and Datasets)
 
